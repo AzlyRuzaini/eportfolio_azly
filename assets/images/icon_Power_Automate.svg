@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Power Automate</title>
+  <defs>
+    <linearGradient id="powerAutomateGradient" x1="16" x2="80" y1="20" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d4ff"/>
+      <stop offset="1" stop-color="#0066d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="#eef8ff"/>
+  <path fill="url(#powerAutomateGradient)" d="M18 28c0-5.5 4.5-10 10-10h36c7.7 0 14 6.3 14 14v36c0 5.5-4.5 10-10 10H32c-7.7 0-14-6.3-14-14V28z"/>
+  <path fill="#fff" d="M30 30h26c2.1 0 3.3 2.4 2 4L47.6 48 58 62c1.2 1.6 0 4-2 4H30c-2.1 0-3.3-2.4-2-4l10.4-14L28 34c-1.2-1.6 0-4 2-4z"/>
+  <path fill="#0066d9" opacity=".45" d="M52 30h14c2.1 0 3.3 2.4 2 4L57.6 48 68 62c1.2 1.6 0 4-2 4H52l-10-18 10-18z"/>
+</svg>

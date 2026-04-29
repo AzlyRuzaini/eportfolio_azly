@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Power Apps</title>
+  <defs>
+    <linearGradient id="powerAppsGradient" x1="18" x2="80" y1="18" y2="78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b969ff"/>
+      <stop offset="1" stop-color="#5c2d91"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="#f7f2ff"/>
+  <path fill="url(#powerAppsGradient)" d="M31 18h28l18 30-18 30H31L13 48l18-30z"/>
+  <path fill="#fff" opacity=".92" d="M39 30h16l10 18-10 18H39L29 48l10-18zm5 13v10h9V43h-9z"/>
+  <path fill="#35145f" opacity=".35" d="M59 18l18 30-18 30H45l18-30-18-30h14z"/>
+</svg>
